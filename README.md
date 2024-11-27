@@ -6,7 +6,7 @@
 - [Matematik](matematik/readme.md)
 - [Svenska](svenska/readme.md)
 - [Teknik](teknik/readme.md)
-- [Dator och nätverksteknik]
+- [Dator och nätverksteknik](dator-och-natverksteknik/readme.md)
 - [Spanska](spanska/readme.md)
 - [Kemi](kemi/readme.md)
 
