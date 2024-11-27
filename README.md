@@ -9,6 +9,7 @@
 - [Dator och nätverksteknik](dator-och-natverksteknik/readme.md)
 - [Spanska](spanska/readme.md)
 - [Kemi](kemi/readme.md)
+- [Idrott](idrott/readme.md)
 
 
 ## Fel?
