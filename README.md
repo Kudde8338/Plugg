@@ -6,7 +6,7 @@
 - Matematik
 - Svenska
 - Teknik
-- Datir och nätverksteknik
+- Dator och nätverksteknik
 
 ## Fel?
 Om du hittar ett fel får du görna göra en pullrequest med rätt svar
