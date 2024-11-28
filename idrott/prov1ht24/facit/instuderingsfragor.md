@@ -3,8 +3,8 @@
 
 ## Genomgången och PPT:
 1. Vad innebär begreppen?
- - Komplexitet - Hur svårt
-- Volym - Belastning
+   - Komplexitet - Hur svårt
+   - Volym - Belastning
 c. Frekvens - Hur ofta
 d. Intensitet - Hur hårt / tung belastning
 e. Duration - hur länge
