@@ -10,10 +10,8 @@ Träning består av 5 komponenter:
 - Snabbhet
 
 Kroppen påverkas av hur mycket du belastat muskeln med **sammanlagt**:   
-Ex. 3 set x 8 rep x 50kg = **1200kg av belastning**
-
-
-
+Ex. 3 set x 8 rep x 50kg = **1200kg av belastning**   
+   
 Kroppen kan även påverkas av andra belastningar så som välmående eller exempelvis cykling till och från träning.
 
 
