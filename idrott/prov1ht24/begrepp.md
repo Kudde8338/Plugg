@@ -18,3 +18,5 @@
 - ***Katabol process*** - Bryter ner musklerna (Träning)
 - ***Anabol process*** - Bygger upp musklerna (Vila)
 - ***Muskelfiber*** - Muskelceller
+- ***Myofibriller*** - Muskelfibrer är uppbygda av dessa
+- ***Sarkomerer*** - Myofibriller är uppbygda av detta och dessa är byggda av proteinerna Aktin och Myosin
