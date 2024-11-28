@@ -1,6 +1,5 @@
-Träningslära, anabola androgena steroider och HLR
-Instuderingsfrågor till provet v.49
-_______________________________________________________________
+# Facit instuderingsfragor
+> Träningslära, anabola androgena steroider och HLR
 
 Genomgången och PPT:
  Vad innebär begreppen?
