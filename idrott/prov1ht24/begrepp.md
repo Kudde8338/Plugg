@@ -10,6 +10,8 @@
 - ***Synergister*** - Muskler som medverkar varandra; ex. Lårmuskulaturen
 - ***Excentrisk träning*** - När musklerna sträcks ut
 - ***Koncentrisk träning*** - När musklerna dras ihop
+- ***Statisk träning*** - Ingen rörelse, exempelvis jägarställning.
+- ***Dynamisk träning*** - Rörelse, exempelvis marklyft eller armhävningar.
 - ***AAS*** - Anabola Androgena Steroider
 - ***WADA*** - World Anti-Doping Agency
 - ***HLR*** - Hjärt och lung räddning
