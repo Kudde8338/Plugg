@@ -3,50 +3,54 @@
 
 ## Genomgången och PPT:
 1. **Vad innebär begreppen?**
-   - ***Komplexitet*** - Hur svårt
-   - ***Volym*** - Belastning
-   - ***Frekvens*** - Hur ofta
-   - ***Intensitet*** - Hur hårt / tung belastning
-   - ***Duration*** - hur länge
+   - ***Komplexitet*** - *Hur svårt*
+   - ***Volym*** - *Belastning*
+   - ***Frekvens*** - *Hur ofta*
+   - ***Intensitet*** - *Hur hårt / tung belastning*
+   - ***Duration*** - *Hur länge*
 
-2. Förklara vad superkompensation är. 
-   - Effekten av träningen efter man har vilat upp sig. Kroppen bygger upp mer muskler än förr och du blir starkare än förr.
+2. **Förklara vad superkompensation är.**
+   - *Effekten av träningen efter man har vilat upp sig. Kroppen bygger upp mer muskler än förr och du blir starkare än förr.*
 
-3. Vad är en katabol respektive anabol fas? Vad händer i de olika faserna?
-   - Katabol fas är när man tränar och bryter ner musklerna. Anabol processen är när man vilar efter träningen och återuppbygger musklerna
+3. **Vad är en katabol respektive anabol fas? Vad händer i de olika faserna?**
+   - *Katabol fas är när man tränar och bryter ner musklerna. Anabol processen är när man vilar efter träningen och återuppbygger musklerna.*
 
-4. Vilka faktorer påverkar en persons återhämtning?
-   - Vila, Mat ( näring ), vatten, sömn
+4. **Vilka faktorer påverkar en persons återhämtning?**
+   - *Vila, Mat ( näring ), vatten, sömn*
 
-5. Varför är återhämtning så viktigt? Vad ingår i återhämtning? 
-6. Vad kan hända om vi inte får tillräckligt med sömn?
-   - Det kan påverka ungas utveckling samt ge sämre inlärningsförmåga, självkänsla och ge ökad risk för depression
+5. **Varför är återhämtning så viktigt? Vad ingår i återhämtning?** 
+6. **Vad kan hända om vi inte får tillräckligt med sömn?**
+   - *Det kan påverka ungas utveckling samt ge sämre inlärningsförmåga, självkänsla och ge ökad risk för depression*
 
-7. Vad kan hjälpa för att få bättre sömnvanor?
-   - Inte använda telefonen precis innan man ska sova, regelbundna fysiska aktiviteter, rutiner när det kommer till att sova och frisk luft och ljus under dagarna.
+7. **Vad kan hjälpa för att få bättre sömnvanor?**
+   - *Inte använda telefonen precis innan man ska sova, regelbundna fysiska aktiviteter, rutiner när det kommer till att sova och frisk luft och ljus under dagarna.*
 
-8. Med vilka syften kan man styrketräna? Nämn 3 stycken.
-   - förstår inte frågan 
+8. **Med vilka syften kan man styrketräna? Nämn 3 stycken.**
+   - *förstår inte frågan*
 
-9. Vad händer i musklerna när vi tränar? och efteråt? Vad sker på cellnivå?
+9. **Vad händer i musklerna när vi tränar? och efteråt? Vad sker på cellnivå?**
    - När vi tränar bryter sig musklerna ner, det vill säga att muskelfibret bryts ner. Efter vi har tränat och vilat så börjar våra celler bygga upp sig själva igen och myofibrillerna blir ännu starkare och större. ( myofibriller är det som bygger upp muskelfibrer ).
-10. Vad är myosin och aktin för något?
 
-   - Det är proteinerna som bygger upp sarkomerer (som bygger upp myofibrillerna som i sig bygger upp muckle fibret )
+10. **Vad är myosin och aktin för något?**
+   - *Det är proteinerna som bygger upp sarkomerer (som bygger upp myofibrillerna som i sin tur bygger upp muskel fibrerna.)*
+
 11. **Förklara begreppen:**
    - ***antagonister*** - 2 muskler som motverkar varandra T.ex biceps
    - ***synergister*** - Muskler som samarbetar tillsammans T.ex alla lårmuskler
- Förklara begreppen:
-excentrisk träning - När musklerna förlängs T.ex när man drar ner i en bicep curl 
-koncentrisk träning - När man drar ihop musklerna T.ex Upp i en bicep curl
- Vad finns det för för- och nackdelar med de olika träningsredskapen som finns? (maskiner, fria vikter, kabelmaskin, gummiband, kroppsvikt)
-Maskiner - isolerar muskler, låg skaderisk
-Fria vikter - Krav på teknik, Flera muskler aktiveras, Kan lyfta tungt, stor variation.
-Kabelmaskin - Mellan ting maskiner och fria vikter, stor variation
-Gummiband - flexibelt
-Kroppsvikt - flexibelt
- Vad menas med RM (repetition maximum)?
-Belastningen som krävs så du bara kan göra en repetition i en övning
+
+12. **Förklara begreppen:**
+   - ***excentrisk träning*** - *När musklerna förlängs T.ex när man drar ner i en bicep curl.* 
+   - ***koncentrisk träning*** - *När man drar ihop musklerna T.ex Upp i en bicep curl.*
+
+13. **Vad finns det för för- och nackdelar med de olika träningsredskapen som finns? (maskiner, fria vikter, kabelmaskin, gummiband, kroppsvikt)**
+   - ***Maskiner*** - isolerar muskler, låg skaderisk
+   - ***Fria vikter*** - Krav på teknik, Flera muskler aktiveras, Kan lyfta tungt, stor variation.
+   - Kabelmaskin - Mellan ting maskiner och fria vikter, stor variation
+   - Gummiband - flexibelt
+   - Kroppsvikt - flexibelt
+
+14. Vad menas med RM (repetition maximum)?
+   - Belastningen som krävs så du bara kan göra en repetition i en övning
  Hur många gånger i veckan bör du träna om du vill behålla din styrka?
 För att behålla din styrka behöver man bara träna 1-2 dagar per vecka. Om man vill få mer muskler behöver man träna 2-3 dagar per vecka.
  Varför bör man träna mage och rygg (bål) sist?
