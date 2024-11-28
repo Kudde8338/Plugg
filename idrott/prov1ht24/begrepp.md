@@ -15,3 +15,5 @@
 - HLR - Hjärt och lung räddning
 - L-ABC - Larma, Andning, Blödning, Chock
 - Aktin och Myosin - Muskelbyggande proteiner
+- Katabol process - Bryter ner musklerna (Träning)
+- Anabol process - Bygger upp musklerna (Vila)
