@@ -2,7 +2,7 @@
 > Träningslära, anabola androgena steroider och HLR
 
 ## Genomgången och PPT:
-1. Vad innebär begreppen?
+1. **Vad innebär begreppen?**
    - ***Komplexitet*** - Hur svårt
    - ***Volym*** - Belastning
    - ***Frekvens*** - Hur ofta
