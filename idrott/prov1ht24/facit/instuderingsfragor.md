@@ -5,9 +5,9 @@
 1. Vad innebär begreppen?
    - Komplexitet - Hur svårt
    - Volym - Belastning
-c. Frekvens - Hur ofta
-d. Intensitet - Hur hårt / tung belastning
-e. Duration - hur länge
+   - Frekvens - Hur ofta
+   - Intensitet - Hur hårt / tung belastning
+   - Duration - hur länge
 Förklara vad superkompensation är. 
 Effekten av träningen efter man har vilat upp sig. Kroppen bygger upp mer muskler än förr och du blir starkare än förr.
 Vad är en katabol respektive anabol fas? Vad händer i de olika faserna?
