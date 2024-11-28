@@ -43,51 +43,61 @@
    - ***koncentrisk träning*** - *När man drar ihop musklerna T.ex Upp i en bicep curl.*
 
 13. **Vad finns det för för- och nackdelar med de olika träningsredskapen som finns? (maskiner, fria vikter, kabelmaskin, gummiband, kroppsvikt)**
-   - ***Maskiner*** - isolerar muskler, låg skaderisk
-   - ***Fria vikter*** - Krav på teknik, Flera muskler aktiveras, Kan lyfta tungt, stor variation.
-   - Kabelmaskin - Mellan ting maskiner och fria vikter, stor variation
-   - Gummiband - flexibelt
-   - Kroppsvikt - flexibelt
+   - ***Maskiner*** - *isolerar muskler, låg skaderisk.*
+   - ***Fria vikter*** - *Krav på teknik, Flera muskler aktiveras, Kan lyfta tungt, stor variation.*
+   - ***Kabelmaskin*** - *Mellan ting maskiner och fria vikter, stor variation.*
+   - ***Gummiband*** - *Flexibelt.*
+   - ***Kroppsvikt*** - *Flexibelt.*
 
-14. Vad menas med RM (repetition maximum)?
-   - Belastningen som krävs så du bara kan göra en repetition i en övning
- Hur många gånger i veckan bör du träna om du vill behålla din styrka?
-För att behålla din styrka behöver man bara träna 1-2 dagar per vecka. Om man vill få mer muskler behöver man träna 2-3 dagar per vecka.
- Varför bör man träna mage och rygg (bål) sist?
-Magen och ryggen använder man i nästan alla träningar på olika sätt. Om man tränar den först kommer man inte orka få hjälp av magen eller ryggen till någon annan träning.
+14. **Vad menas med RM (repetition maximum)?**
+   - *Belastningen som krävs så du bara kan göra en repetition i en övning.*
 
-Lyftteknik
- Varför är rörlighet viktigt när det kommer till styrketräning?
- Beskriv hur man utför ett marklyft. Vad är viktigt att tänka på?
+15. **Hur många gånger i veckan bör du träna om du vill behålla din styrka?**
+   - *För att behålla din styrka behöver man bara träna 1-2 dagar per vecka. Om man vill få mer muskler behöver man träna 2-3 dagar per vecka.*
 
-Anabola androgena steroider, AAS 
- Vad betyder är AAS?
-Anabola androgena steroider
- Om en tar AAS, hur reagerar kroppen på den förhöjda nivån av testosteron i kroppen?
- Det kan vara svårt att märka om en person använder AAS. Vad kan man vara aktsam på för symptom? 
- Varför är det svårt att på förhand säger hur en person kommer reagera om den tar AAS? 
- Hur kan det psykiska måendet påverkas?
- Hur påverkar specifikt tonåringar av AAS? 
- Vad säger lagen om AAS?
-All hantering av dopnings ämne (AAS) som inte gäller medicinska eller vetenskapliga kan man straffas av. Maxstraff för grov dopningsbrott är 6 års fängelse
- Vad är WADA för organisation?
-World Anti-Doping Agency. Det är en organisation som är eot dopning och som kan hjälpa till under sport event för att se till så att ingen använder någon sorts dopningsmedel 
+16. **Varför bör man träna mage och rygg (bål) sist?**
+   - *Magen och ryggen använder man i nästan alla träningar på olika sätt. Om man tränar den först kommer man inte orka få hjälp av magen eller ryggen till någon annan träning.*
 
- Hjärt- och lungräddning, HLR. Gör ett test här.
- Vad är det första du ska göra / kolla upp i en nödsituation?
-Kolla efter livstecken och kolla om personen kan andas
- Vad står ABC för? Vad innebär det?
-Andning, blödning, chock
- Hur många kompressioner och inblåsningar ska man göra vid HLR? Vilket av de två är viktigast att utföra?
-Man ska göra 30 kompressioner och 2 inblåsningar. Det är viktigast med kompressionerna.
- Varför ska du se till att personen i nöd inte ligger på mjukt underlag eller på en grop (ex. på en sandstrand eller snö) ?
-Om det är mjukt underlag eller en grop under personen kommer man behöva trycka hårdare under kompressioner för att komma så långt ner man ska (5-6cm)
- Hur många rundor med kompressioner och inblåsningar klarar vi av att göra med god kvalitet? 
-Det beror på personen som gör hlr. 
- Vad finns det i väskan med defibrillatorn (hjärtstartaren)? Vad är dessa saker till för?
-Det finns 2 elektroder. En av dessa ska sitta under högra skulderbladet och den andra ska sitta under det vänstra bröstet
- I en nödsituation, hur länge ska du hålla på med HLR?
-Tills ambulansen eller någon som jobbar inom sjukvård kommer och erbjuder hjälp.
+## Lyftteknik
+17. **Varför är rörlighet viktigt när det kommer till styrketräning?**
+18. **Beskriv hur man utför ett marklyft. Vad är viktigt att tänka på?**
+
+## Anabola androgena steroider, AAS 
+19. **Vad betyder är AAS?**
+   - *Anabola androgena steroider*
+ 
+20. **Om en tar AAS, hur reagerar kroppen på den förhöjda nivån av testosteron i kroppen?**
+21. **Det kan vara svårt att märka om en person använder AAS. Vad kan man vara aktsam på för symptom?**
+22. **Varför är det svårt att på förhand säger hur en person kommer reagera om den tar AAS?**
+23. **Hur kan det psykiska måendet påverkas?**
+24. **Hur påverkar specifikt tonåringar av AAS?**
+25. **Vad säger lagen om AAS?**
+   - *All hantering av dopnings ämne (AAS) som inte gäller medicinska eller vetenskapliga kan man straffas av. Maxstraff för grov dopningsbrott är 6 års fängelse.*
+
+26. **Vad är WADA för organisation?**
+   - *World Anti-Doping Agency. Det är en organisation som är eot dopning och som kan hjälpa till under sport event för att se till så att ingen använder någon sorts dopningsmedel.*
+
+## Hjärt- och lungräddning, HLR. Gör ett test här.
+27. **Vad är det första du ska göra / kolla upp i en nödsituation?**
+   - *Kolla efter livstecken och kolla om personen kan andas.*
+
+28. **Vad står ABC för? Vad innebär det?**
+   - *Andning, blödning, chock*
+
+29. **Hur många kompressioner och inblåsningar ska man göra vid HLR? Vilket av de två är viktigast att utföra?**
+   - *Man ska göra 30 kompressioner och 2 inblåsningar. Det är viktigast med kompressionerna.*
+
+30. **Varför ska du se till att personen i nöd inte ligger på mjukt underlag eller på en grop (ex. på en sandstrand eller snö)?**
+   - *Om det är mjukt underlag eller en grop under personen kommer man behöva trycka hårdare under kompressioner för att komma så långt ner man ska (5-6cm)*
+
+31. **Hur många rundor med kompressioner och inblåsningar klarar vi av att göra med god kvalitet?**
+   - *Det beror på personen som gör hlr.*
+
+32. **Vad finns det i väskan med defibrillatorn (hjärtstartaren)? Vad är dessa saker till för?**
+   - *Det finns 2 elektroder. En av dessa ska sitta under högra skulderbladet och den andra ska sitta under det vänstra bröstet. sax rakhyvel, servetter*
+
+33. **I en nödsituation, hur länge ska du hålla på med HLR?**
+   - *Tills ambulansen eller någon som jobbar inom sjukvård kommer och erbjuder hjälp.*
 
 
 
