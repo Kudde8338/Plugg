@@ -9,7 +9,7 @@
    - ***Intensitet*** - *Hur hårt / tung belastning*
    - ***Duration*** - *Hur länge*
 
-
+  
 **2. Förklara vad superkompensation är.**
    - *Effekten av träningen efter man har vilat upp sig. Kroppen bygger upp mer muskler än förr och du blir starkare än förr.*
 
