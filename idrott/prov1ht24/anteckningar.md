@@ -161,6 +161,35 @@ Det är viktigt att du som använder AAS får hjälp att sluta med dopningen. Ha
 
 ## HLR
 ### L-ABC
+L-ABC består av 4 steg: 
+- ***Livsfarligt läge*** - Värna först om din egen säkerhet, därefter skadades och därefter övriga.
+- ***Andning*** - Kolla att den skadade andas. Detta kan göras genom att lyssna, känna eller hålla glasögon etc. framför munnen och kolla efter imma.
+- ***Blödning*** - Inspektera kroppen snabbt och grundligt efter kraftigare blödningar.
+- ***Chock*** - Antingen medecinsk chock eller psykisk chock.
+
+Dessa steg ska du gå igenom när du kontrollerar andning:
+1. ***Kontrollera luftvägen / Öppna luftvägen*** - Kontrollera så att den skadades luftvägar inte blockeras varken invändigt eller utvändigt.
+2. ***Se, lyssna, känn*** - Se, Lyssna, Känn efter en andning. Se om personens bröstkorg rör sig annars lyssna efter andetag eller känn efter utandningar.
+3. ***Stabilt sidoläge eller HLR*** - Om personen inte andas bör du omedelbart påbörja HLR. Däremot om personen andas bör du placera personen i stabilt sidoläge.
+
+Dessa steg ska du gå igenom när du kontrollerar blödning:
+1. ***Blek, Snabb andning, förhöjd puls*** - Blek och kall hud, snabba andetag och en förhöjd puls är alla symptom för att det finns en blödning då kroppen försöker kompensera för blodförlusten.
+2. ***Tryckförband*** - Om något av symptomen infinner sig så bör du lokalisera blödningen och applicera tryckförband.
+
+Så här gör du tryckförband:
+1. ***Tryck*** - Lägg hårt tryck på blödningen omedelbart.
+2. ***Lägg ett tryckförband*** - Applicera ett tryckförband med materialen tillgängliga och se till att det är ordentligt hårt och att knuten är över den största blödningen för extra tryck.
+3. ***Läge*** - Placera blödningen högt relativt till hjärtat och försök att placera personen i ett liggand läge.
+4. ***Motverka nedkylning*** - Använd vad som finns tillgängligt för att hålla den skadade så varm som möjligt.
+
+Vad gäller vid medecinsk chock:
+- ***Symptom*** - Kroppen kan bli blek och kall när en person är i medecinsk chock. Det finns en risk att kroppen inte får tillräckligt med syre
+- ***Tänk på*** - Tänk på att inte ge personen något att dricka, hålla den varm och hålla den sällskap.
+- ***Akut*** - Kontakta sjukvård så snabbt som möjligt.
+
+Vad gäller vid psykisk chock:
+- ***Affekt*** - En person i chock kan agera i affekt och oförutsägbart.
+- ***Tänk på*** - Lägg personen ner, håll värmen, försök hålla en konstant lugn och sansad konversation med lätta frågor som "vad heter du?" eller "Hur gammal är du?"
 
 ****
 ### Hjärt och lungräddning
