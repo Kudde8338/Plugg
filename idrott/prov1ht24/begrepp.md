@@ -14,3 +14,4 @@
 - WADA - World Anti-Doping Agency
 - HLR - Hjärt och lung räddning
 - L-ABC - Larma, Andning, Blödning, Chock
+- Aktin och Myosin - Muskelbyggande proteiner
