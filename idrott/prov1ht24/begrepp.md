@@ -2,4 +2,7 @@
 > träningslära med fokus styrketräning, AAS, lyftteknik och HLR
 
 ## Lista
-- AAS - hej
+-Frekvens - hur ofta
+-intensitet - hur hårt / tungt
+-komplexitet - hur svårt
+-duration - hur länge
