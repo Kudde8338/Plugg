@@ -2,20 +2,20 @@
 > Träningslära, anabola androgena steroider och HLR
 
 ## Genomgången och PPT:
-1. **Vad innebär begreppen?**
+**1. Vad innebär begreppen?**
    - ***Komplexitet*** - *Hur svårt*
    - ***Volym*** - *Belastning*
    - ***Frekvens*** - *Hur ofta*
    - ***Intensitet*** - *Hur hårt / tung belastning*
    - ***Duration*** - *Hur länge*
 
-2. **Förklara vad superkompensation är.**
+**2. Förklara vad superkompensation är.**
    - *Effekten av träningen efter man har vilat upp sig. Kroppen bygger upp mer muskler än förr och du blir starkare än förr.*
 
-3. **Vad är en katabol respektive anabol fas? Vad händer i de olika faserna?**
+**3. Vad är en katabol respektive anabol fas? Vad händer i de olika faserna?**
    - *Katabol fas är när man tränar och bryter ner musklerna. Anabol processen är när man vilar efter träningen och återuppbygger musklerna.*
 
-4. **Vilka faktorer påverkar en persons återhämtning?**
+**4. Vilka faktorer påverkar en persons återhämtning?**
    - *Vila, Mat ( näring ), vatten, sömn*
 
 5. **Varför är återhämtning så viktigt? Vad ingår i återhämtning?** 
