@@ -20,7 +20,7 @@
 **4. Vilka faktorer påverkar en persons återhämtning?**
 
 
-**5. **Varför är återhämtning så viktigt? Vad ingår i återhämtning?**
+**5. Varför är återhämtning så viktigt? Vad ingår i återhämtning?**
 
 
 **6. Vad kan hända om vi inte får tillräckligt med sömn?**
