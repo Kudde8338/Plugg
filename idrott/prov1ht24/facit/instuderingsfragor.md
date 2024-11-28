@@ -3,7 +3,7 @@
 
 ## Genomgången och PPT:
 1. Vad innebär begreppen?
-   - ***Komplexitet*** - $\color{#FF0000}{Hur svårt}$
+   - ***Komplexitet*** - \color{#FF0000}{Hur svårt}
    - ***Volym*** - Belastning
    - ***Frekvens*** - Hur ofta
    - ***Intensitet*** - Hur hårt / tung belastning
