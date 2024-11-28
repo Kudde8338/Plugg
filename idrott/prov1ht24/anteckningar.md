@@ -1,15 +1,14 @@
 # Anteckningar
 > Träningslära, anabola androgena steroider och HLR
 
-Träning består av 5 komponenter
-
-Styrka
-Kondition
-Koordination
-Rörlighet
-Snabbhet
-
-
+## Träningslära
+Träning består av 5 komponenter:
+- Styrka
+- Kondition
+- Koordination
+- Rörlighet
+- Snabbhet
+<br></br>
 Kroppen påverkas av hur mycket du belastat muskeln med sammanlagt:
 
 Ex. 3 set x 8 rep x 50kg = 1200kg av belastning
