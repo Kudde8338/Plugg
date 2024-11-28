@@ -13,6 +13,7 @@
 - ***Statisk träning*** - Ingen rörelse, exempelvis jägarställning.
 - ***Dynamisk träning*** - Rörelse, exempelvis marklyft eller armhävningar.
 - ***AAS*** - Anabola Androgena Steroider
+- ***Androgena*** - Betyder att det är ett manligt könshormon
 - ***WADA*** - World Anti-Doping Agency
 - ***HLR*** - Hjärt och lung räddning
 - ***L-ABC*** - Larma, Andning, Blödning, Chock
