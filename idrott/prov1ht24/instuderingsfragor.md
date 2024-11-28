@@ -1,5 +1,6 @@
 # Instuderingsfragor
 > Träningslära, anabola androgena steroider och HLR
+- [Facit](facit/instuderingsfragor.md)
 
 ## Genomgången och PPT:    
 **1. Vad innebär begreppen?**
