@@ -3,7 +3,7 @@
 
 ## Genomgången och PPT:
 1. Vad innebär begreppen?
-   - ***Komplexitet*** - \color{#FF0000}{Hur svårt}
+   - ***Komplexitet*** - Hur svårt
    - ***Volym*** - Belastning
    - ***Frekvens*** - Hur ofta
    - ***Intensitet*** - Hur hårt / tung belastning
@@ -24,15 +24,18 @@
 
 7. Vad kan hjälpa för att få bättre sömnvanor?
    - Inte använda telefonen precis innan man ska sova, regelbundna fysiska aktiviteter, rutiner när det kommer till att sova och frisk luft och ljus under dagarna.
-Med vilka syften kan man styrketräna? Nämn 3 stycken.
-förstår inte frågan 
-Vad händer i musklerna när vi tränar? och efteråt? Vad sker på cellnivå?
-När vi tränar bryter sig musklerna ner, det vill säga att muskelfibret bryts ner. Efter vi har tränat och vilat så börjar våra celler bygga upp sig själva igen och myofibrillerna blir ännu starkare och större. ( myofibriller är det som bygger upp muskelfibrer ).
-Vad är myosin och aktin för något?
-Det är proteinerna som bygger upp sarkomerer (som bygger upp myofibrillerna som i sig bygger upp muckle fibret )
- Förklara begreppen:
-antagonister - 2 muskler som motverkar varandra T.ex biceps
-synergister - Muskler som samarbetar tillsammans T.ex alla lårmuskler
+
+8. Med vilka syften kan man styrketräna? Nämn 3 stycken.
+   - förstår inte frågan 
+
+9. Vad händer i musklerna när vi tränar? och efteråt? Vad sker på cellnivå?
+   - När vi tränar bryter sig musklerna ner, det vill säga att muskelfibret bryts ner. Efter vi har tränat och vilat så börjar våra celler bygga upp sig själva igen och myofibrillerna blir ännu starkare och större. ( myofibriller är det som bygger upp muskelfibrer ).
+10. Vad är myosin och aktin för något?
+
+   - Det är proteinerna som bygger upp sarkomerer (som bygger upp myofibrillerna som i sig bygger upp muckle fibret )
+11. **Förklara begreppen:**
+   - ***antagonister*** - 2 muskler som motverkar varandra T.ex biceps
+   - ***synergister*** - Muskler som samarbetar tillsammans T.ex alla lårmuskler
  Förklara begreppen:
 excentrisk träning - När musklerna förlängs T.ex när man drar ner i en bicep curl 
 koncentrisk träning - När man drar ihop musklerna T.ex Upp i en bicep curl
