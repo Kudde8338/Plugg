@@ -1,10 +1,7 @@
 # Facit instuderingsfragor
 > Träningslära, anabola androgena steroider och HLR
-\
 
-"
-   
-## Genomgången och PPT:
+## Genomgången och PPT:    
 **1. Vad innebär begreppen?**
    - ***Komplexitet*** - *Hur svårt*
    - ***Volym*** - *Belastning*
@@ -78,6 +75,7 @@
    - *Magen och ryggen använder man i nästan alla träningar på olika sätt. Om man tränar den först kommer man inte orka få hjälp av magen eller ryggen till någon annan träning.*
 ****
 
+<br/><br/>
 ## Lyftteknik
 **17. Varför är rörlighet viktigt när det kommer till styrketräning?**
 ****
@@ -85,6 +83,7 @@
 **18. Beskriv hur man utför ett marklyft. Vad är viktigt att tänka på?**
 ****
 
+<br/><br/>
 ## Anabola androgena steroider, AAS 
 **19. Vad betyder är AAS?**
    - *Anabola androgena steroider*
@@ -113,6 +112,7 @@
    - *World Anti-Doping Agency. Det är en organisation som är eot dopning och som kan hjälpa till under sport event för att se till så att ingen använder någon sorts dopningsmedel.*
 ****
 
+<br/><br/>
 ## Hjärt- och lungräddning, HLR. Gör ett test här.
 **27. Vad är det första du ska göra / kolla upp i en nödsituation?**
    - *Kolla efter livstecken och kolla om personen kan andas.*
