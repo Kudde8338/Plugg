@@ -14,8 +14,6 @@ Ex. 3 set x 8 rep x 50kg = **1200kg av belastning**
    
 Kroppen kan även påverkas av andra belastningar så som välmående eller exempelvis cykling till och från träning.
 
-
-
 Det finns två processer inom träningen:
 
 Katabol process (träning) - nerbrytande
