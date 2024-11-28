@@ -159,5 +159,5 @@ Använder du dopningsklassade preparat som läkemedel mot någon sjukdom eller b
 ### Vård
 Det är viktigt att du som använder AAS får hjälp att sluta med dopningen. Har du en fråga som inte är bråttom så kan du kontakta dopingjouren genom att ställa en fråga på deras startsida.
 
-
+## HLR
 
