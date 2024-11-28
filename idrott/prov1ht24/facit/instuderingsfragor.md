@@ -1,6 +1,6 @@
 # Facit instuderingsfragor
 > Träningslära, anabola androgena steroider och HLR
-"\
+\
 
 "
    
