@@ -1,6 +1,7 @@
 # Facit instuderingsfragor
 > Träningslära, anabola androgena steroider och HLR
 
+   
 ## Genomgången och PPT:
 **1. Vad innebär begreppen?**
    - ***Komplexitet*** - *Hur svårt*
