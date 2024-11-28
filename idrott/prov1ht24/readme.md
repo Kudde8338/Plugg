@@ -3,5 +3,5 @@
 
 - [Begrepp](begrepp.md)
 - [Instuderingsfrågor](instuderingsfragor.md)
-- Anteckningar
+- [Anteckningar](anteckningar.md)
 
