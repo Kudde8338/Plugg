@@ -8,17 +8,22 @@
    - Frekvens - Hur ofta
    - Intensitet - Hur hårt / tung belastning
    - Duration - hur länge
-Förklara vad superkompensation är. 
-Effekten av träningen efter man har vilat upp sig. Kroppen bygger upp mer muskler än förr och du blir starkare än förr.
-Vad är en katabol respektive anabol fas? Vad händer i de olika faserna?
-Katabol fas är när man tränar och bryter ner musklerna. Anabol processen är när man vilar efter träningen och återuppbygger musklerna
-Vilka faktorer påverkar en persons återhämtning?
-Vila, Mat ( näring ), vatten, sömn
-Varför är återhämtning så viktigt? Vad ingår i återhämtning? 
-Vad kan hända om vi inte får tillräckligt med sömn?
-Det kan påverka ungas utveckling samt ge sämre inlärningsförmåga, självkänsla och ge ökad risk för depression
-Vad kan hjälpa för att få bättre sömnvanor?
-Inte använda telefonen precis innan man ska sova, regelbundna fysiska aktiviteter, rutiner när det kommer till att sova och frisk luft och ljus under dagarna.
+
+2. Förklara vad superkompensation är. 
+   - Effekten av träningen efter man har vilat upp sig. Kroppen bygger upp mer muskler än förr och du blir starkare än förr.
+
+3. Vad är en katabol respektive anabol fas? Vad händer i de olika faserna?
+   - Katabol fas är när man tränar och bryter ner musklerna. Anabol processen är när man vilar efter träningen och återuppbygger musklerna
+
+4. Vilka faktorer påverkar en persons återhämtning?
+   - Vila, Mat ( näring ), vatten, sömn
+
+5. Varför är återhämtning så viktigt? Vad ingår i återhämtning? 
+6. Vad kan hända om vi inte får tillräckligt med sömn?
+   - Det kan påverka ungas utveckling samt ge sämre inlärningsförmåga, självkänsla och ge ökad risk för depression
+
+7. Vad kan hjälpa för att få bättre sömnvanor?
+   - Inte använda telefonen precis innan man ska sova, regelbundna fysiska aktiviteter, rutiner när det kommer till att sova och frisk luft och ljus under dagarna.
 Med vilka syften kan man styrketräna? Nämn 3 stycken.
 förstår inte frågan 
 Vad händer i musklerna när vi tränar? och efteråt? Vad sker på cellnivå?
