@@ -14,3 +14,4 @@
 
 ## Fel?
 Om du hittar ett fel får du görna göra en pullrequest med rätt svar
+https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
