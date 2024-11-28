@@ -1,13 +1,13 @@
 # Facit instuderingsfragor
 > Träningslära, anabola androgena steroider och HLR
 
-Genomgången och PPT:
- Vad innebär begreppen?
-Komplexitet - Hur svårt
-Volym - Belastning
-Frekvens - Hur ofta
-Intensitet - Hur hårt / tung belastning
-Duration - hur länge
+## Genomgången och PPT:
+1. Vad innebär begreppen?
+a. Komplexitet - Hur svårt
+b. Volym - Belastning
+c. Frekvens - Hur ofta
+d. Intensitet - Hur hårt / tung belastning
+e. Duration - hur länge
 Förklara vad superkompensation är. 
 Effekten av träningen efter man har vilat upp sig. Kroppen bygger upp mer muskler än förr och du blir starkare än förr.
 Vad är en katabol respektive anabol fas? Vad händer i de olika faserna?
