@@ -8,6 +8,7 @@ Träning består av 5 komponenter:
 - Koordination
 - Rörlighet
 - Snabbhet
+
 <br></br>
 Kroppen påverkas av hur mycket du belastat muskeln med sammanlagt:
 
