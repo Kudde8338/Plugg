@@ -5,4 +5,4 @@
 > Uppdelat i terminer för enkel navigation
 
 ### HT-24
-- [Prov 1](prov1ht24)
+- [Prov 1](prov1ht24/readme.md)
