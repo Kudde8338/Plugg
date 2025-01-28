@@ -1,5 +1,5 @@
-# Prov 1 HT-24
-> träningslära med fokus styrketräning, AAS, lyftteknik och HLR
+# Kemi stökiometri
+> Beräkningar med Molmassa
 
 - [Begrepp](begrepp.md)
 - [Instuderingsfrågor](instuderingsfragor.md)
